@@ -1,4 +1,4 @@
-# EX. NO:
+# EX. NO: 5
 # DATE:
 
 # <p align="center">INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO</p>
